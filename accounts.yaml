@@ -1,0 +1,13 @@
+build:
+    version: "3.0"
+
+accounts:
+    message: "Welcome to EazyBank accounts related local APIs"
+    contactDetails:
+        email: "john@eazybank.com"
+        name: "John Doe - Developer"
+    onCallSupport:
+        - (555)555-1234
+        - (555)555-5678
+
+

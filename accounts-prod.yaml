@@ -1,0 +1,11 @@
+build:
+    version: "1.0"
+
+accounts:
+    message: "Welcome to EazyBank accounts related Production APIs"
+    contactDetails:
+        email: "{cipher}f74ce9ed9636d0ca49a0d493ff39f9af1d6379aab334f14fa937994511c06e77c5fdf72b8a7ad2e1585b6bdbc687844c"
+        name: "Ray Doe - Prod"
+    onCallSupport:
+        - (555)555-1234
+        - (555)555-5678
