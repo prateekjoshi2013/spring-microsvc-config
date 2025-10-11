@@ -5,7 +5,7 @@ cards:
     message: "Welcome to EazyBank loans github config related Production APIs"
     contactDetails:
         email: "Ray@eazybank.com"
-        name: "Ray Doe - Prod"
+        name: "Ray Doe"
     onCallSupport:
         - (555)555-1234
         - (555)555-5690
